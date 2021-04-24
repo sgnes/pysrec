@@ -1,4 +1,6 @@
-This is pysrec, a Motorola S-record manipulation library
+This is pysrec, a Motorola S-record manipulation library.
+
+forked from https://github.com/gabtremblay/pysrec.
 
 http://en.wikipedia.org/wiki/SREC_(file_format)
 
